@@ -7,4 +7,4 @@
 
 # 라이센스
 
-Licence 파일 참조
+License 파일 참조
