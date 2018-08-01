@@ -22,7 +22,7 @@ class JQMSG extends PluginBase implements Listener {
 		@mkdir ($this->getDataFolder());
 		$this->config = new Config($this->getDataFolder() . "Messages.yml", Config::YAML, [
 		"OP-Join-msg" => "§c관리자§f {이름}§c님이 §a서버에§f 접속하셨습니다",
-		"USER-Join-msg" => "§e[ §f로그인§e ] §f{유저}",
+		"USER-Join-msg" => "§e[ §f로그인§e ] §f{이름}",
 		"OP-Quit-msg" => "§c관리자§f {이름}§f님이 서버에서 퇴장하셨습니다",
 		"USER-Quit-msg" => "§e[ §f로그아웃§e ] §f{이름}",
 		"prefix" => "§a§l[ §f서버 §a] "
