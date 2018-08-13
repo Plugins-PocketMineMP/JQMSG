@@ -4,7 +4,7 @@
  * @name JQMSG
  * @author alvin0319
  * @main alvin0319\JQMSG
- * @version Rewrite-1.0.0
+ * @version Rewrite-1.0.1
  * @api 4.0.0
  */
 namespace alvin0319;
