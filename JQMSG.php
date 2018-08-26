@@ -51,3 +51,4 @@ class JQMSG extends PluginBase implements Listener {
 		}
 	}
 }
+?>
